@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+    {
+    "source": {
+    "id": "cnn-es",
+    "name": "CNN Spanish"
+    },
+    "author": "Luis Ernesto Quintana Barney",
+    "title": "Una cabra y un perro rescatados encuentran un hogar definitivo juntos",
+    "description": "Cinnamon, una cabra, y Félix, una mezcla de bulldog de 1 año, son un dúo poco probable, pero no obstante son mejores amigos.",
+    "url": "https://cnnespanol.cnn.com/2023/04/01/cabra-perro-animales-rescatados-hogar-trax/",
+    "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2023/04/230401143017-02-rescue-dog-goat-adoption-1.webp",
+    "publishedAt": "2023-04-02T00:54:09Z",
+    "content": "(CNN) -- Cinnamon, una cabra, y Félix, una mezcla de bulldog de 1 año, son un dúo poco probable, pero no obstante son mejores amigos.\r\nLos amigos de cuatro patas disfrutan pasar tiempo juntos: comen,… [+1505 chars]"
+    },
+    {
+    "source": {
+    "id": "fox-sports",
+    "name": "Fox Sports"
+    },
+    "author": null,
+    "title": "April Fools' Day 2023: Best sports posts, highlights featuring Snoop Dogg, more",
+    "description": "The Steelers \"signed\" Snoop Dogg as a wide reciver, Caleb Love wants fans to know that he is not actually joining Duke, and more!",
+    "url": "http://www.foxsports.com/stories/nfl/april-fools-day-2023-best-sports-posts-highlights-featuring-snoop-dogg-more",
+    "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2023/04/1408/814/04.01.23_April-Fools-Day-Sports-Roundup_Horizontal.jpg?ve=1&tl=1",
+    "publishedAt": "2023-04-02T00:15:45Z",
+    "content": "April Fools' Day is upon us, and plenty of famous players and teams are getting in on the action with some good-natured pranking. Here are some of the most viral posts from around the sports world Sa… [+1826 chars]"
+    },
+    {
+    "source": {
+    "id": "engadget",
+    "name": "Engadget"
+    },
+    "author": "https://www.engadget.com/about/editors/igor-bonifacic",
+    "title": "Apple wins appeal against UK antitrust probe into mobile browser dominance | Engadget",
+    "description": "On Friday, Apple won an appeal against an investigation the UK's antitrust watchdog launched last fall..",
+    "url": "https://www.engadget.com/apple-wins-appeal-against-uk-antitrust-probe-into-mobile-browser-dominance-163706177.html",
+    "urlToImage": "https://s.yimg.com/uu/api/res/1.2/2BKcid_PcwtFrlPujUquLw--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-11/2c127f00-6606-11ed-b4ee-e2b34d607e87.cf.jpg",
+    "publishedAt": "2023-04-01T16:52:18.41735Z",
+    "content": "Apple has handed the UKs Competition and Markets Authority a major setback in its effort to regulate the tech giant. On Friday, the company won an appeal against an investigation the antitrust watchd… [+1486 chars]"
+    },
+    {
+    "source": {
+    "id": "four-four-two",
+    "name": "FourFourTwo"
+    },
+    "author": "Tom Hancock",
+    "title": "Manchester City keep pressure on Arsenal with comfortable comeback win vs Liverpool",
+    "description": "Julian Alvarez, Kevin De Bruyne, Ilkay Gundogan and Jack Grealish all struck as City stayed in the Premier League title race",
+    "url": "https://www.fourfourtwo.com/news/manchester-city-keep-pressure-on-arsenal-with-comfortable-comeback-win-vs-liverpool",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/NozkrjeuVL3TFzWtZjYpL4-1200-80.jpg",
+    "publishedAt": "2023-04-01T13:29:22Z",
+    "content": "Manchester City (opens in new tab) kept the pressure on Arsenal (opens in new tab) in the Premier League title race as they came from behind to cruise past Liverpool (opens in new tab) 4-1 at the Eti… [+1469 chars]"
+    },
+    {
+    "source": {
+    "id": "the-globe-and-mail",
+    "name": "The Globe And Mail"
+    },
+    "author": "Erica Alini",
+    "title": "‘It’s a dog eat dog world’ as housing cool-down helps ignite rental market wars",
+    "description": "Rents in many parts of Canada are nearing or surging past prepandemic records, just as property values and home resale transactions declined for the second consecutive month in May",
+    "url": "https://www.theglobeandmail.com/investing/personal-finance/household-finances/article-its-a-dog-eat-dog-world-as-housing-cool-down-helps-ignite-rental/",
+    "urlToImage": "https://www.theglobeandmail.com/resizer/k4SzzUz-fDXLTPrBSHk8c8OwZCs=/1200x801/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/OUZ33GZN4VBJZCAFM4TXYDFKAI.JPG",
+    "publishedAt": "2022-06-16T09:00:00Z",
+    "content": "A sign advertising a house for rent in Ottawa, Ont., on May 16.Spencer Colby/The Globe and Mail\r\nJust as Canadas home sales and prices cool off, the rental market is catching fire.\r\nRents in many par… [+4720 chars]"
+    }
+    ]
+    }
